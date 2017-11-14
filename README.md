@@ -1,1 +1,1 @@
-# GitnGitHub-basics
+# Basic Git & GitHub Practices
